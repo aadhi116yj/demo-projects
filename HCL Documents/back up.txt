@@ -1,0 +1,239 @@
+
+                               Thank You!
+           Your application has been submitted successfully.
+
+
+
+
+
+                Application Number : HCLFC403192
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Careers Application Form
+Personal Details Step 1 of 9Edit
+Applicant Details
+Title *
+Mr
+First Name *
+Aditya
+Middle Name 
+Enter Your Middle Name
+Last Name *
+Royyuyu
+Enter dot (.) If you don't have last name
+Mobile Number *
+9000718192
+Email Address *
+aadhi.altruist@gmail.com
+Date of Birth *
+27/08/1993
+Gender 
+Male
+Marital Status 
+Unmarried
+Aadhar Card Number 
+330068522947
+Are You a Person With Disability? *
+No
+Passport Details
+Do you have a passport? *
+Yes
+Passport Number 
+R852544
+As per your document
+Country 
+india
+As per your document
+Place of Issue 
+Vijayawada
+As per your document
+Date of Issue 
+02/01/2018
+Date of Expiry 
+01/01/2028
+Family Details Step 2 of 9Edit
+Father's Details
+Father's Salutation *
+Mr
+Father's Name *
+VenkateswaraRao
+Father's Mobile Number *
+9491725325
+Father's Email Address 
+aadhi.altruist@Gmail.com
+Father's Occupation *
+Government Sector
+Father's Designation 
+Lab Assistant
+Father's Company/ Organisation Name 
+APZPH School Kapileswarapuram
+Mother's Details
+Mother Salutation *
+Mrs
+Mother's Name *
+Veera Kumari
+Mother's Mobile Number 
+9490807325
+Mother's Email Address 
+royyurukumari@gmail.com
+Mother's Occupation *
+Homemaker
+Any Guardian's Details 
+Yes
+Family Annual Income *
+2 lakhs - 4 lakhs
+Do You Live with your Family? *
+Yes
+Address Details Step 3 of 9Edit
+Permanent Address
+Note : Permanent Address should be as per Government proof
+
+Country *
+India
+State *
+Andhra Pradesh
+District *
+Krishna
+City *
+Vijayawada
+Address Line 1 *
+11-156,kolavennu VariStreet,NearDutipaka,Kankipadu
+Address Line 2 
+Address Line 2
+Pincode *
+521151
+In case your country doesn’t have pincode/zipcode enter 000000
+Is Your Correspondence Address Same As Permanent Address? *
+Yes No
+Living In Present Location Since(Year)? *
+7 Years and above
+Academic Details Step 4 of 9Edit
+Academic Details
+Class Xth Details
+Institute Name 	Board 	Roll No. 	Year of Passing 	Marking Scheme 	Obtained Percentage / CGPA 
+Xth *	
+ZPH School K Tadepalli
+
+Andhra Pradesh Board Of Secondary Education
+0912124214
+2009
+
+Percentage
+71
+What is Your Qualification After 10th *
+Diploma
+Diploma Details
+Institute Name *	Board *	Year of Passing *	Marking Scheme *	Obtained Percentage *
+Diploma *	
+GPT Collage Vijayawada
+*	
+
+Directorate Of Technical Education
+*	
+2012
+*	
+
+Percentage
+*	
+67.08
+*
+Kindly put the exact percentage obtained upto 2 decimal points.
+If You Had CGPA Marking Scheme, Please Convert the Same into Percentage As Per Your University Guidelines.
+
+UG Degree *
+B.TECH
+Graduation Academic Details
+Institute Name *	University *	Year of Passing *	Result Status *	Marking Scheme *	Obtained Percentage *
+UG 	
+Dhanekula Institute of Eng
+
+Jawaharlal Nehru Technological University, Andhra Pradesh
+2018
+
+Declared
+
+Percentage
+64.47
+Kindly put the exact percentage obtained upto 2 decimal points.
+If You Had CGPA Marking Scheme, Please Convert the Same into Percentage As Per Your University Guidelines.
+
+Have you done Post Graduation? *
+Yes No
+Have you done any other certifications? *
+Yes No
+Work Experience Details Step 5 of 9Edit
+Work Experience Details
+Do You Have Any Work Experience ? *
+No
+Other Details Step 6 of 9Edit
+Other Details
+Willingness to Work in Shifts *
+Yes
+Do you have HCL Employee Reference? 
+No
+Do You Have a Friend To Refer To? 
+No
+Upload Documents Step 7 of 9Edit
+Upload Files
+Upload Your Recent Passport Size Photograph *
+No file chosen
+Max Upload Limit 1 MBMax Limit 10MB ( only jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Upload Scanned Copy of Your Signature *
+No file chosen
+Max Upload Limit 1 MBMax Limit 10MB ( only jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Select One Government Issued Valid Address Proof To Be Uploaded? *
+Driving License
+Address Proof (on candidate’s Name) *
+No file chosen
+Max Limit 10MB ( only Pdf , jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Second Address Proof (Optional) 
+No file chosen
+Max Limit 10MB ( only Pdf , jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Upload Your Updated Resume *
+No file chosen
+Max Limit 10MB ( only Pdf , jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Upload Your Class Xth Marksheet *
+No file chosen
+Max Limit 10MB ( only Pdf , jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Upload Your Diploma Marksheet *
+No file chosen
+Max Limit 10MB ( only Pdf , jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Upload Your UG Consolidated Marksheet(s) *
+No file chosen
+Max Limit 10MB ( only Pdf , jpeg , jpg , png allowed)
+1 File(s) Uploaded 
+Declaration Step 8 of 9Edit
+Declaration
+I Hereby declare that the details furnished above are true to the best of my knowledge and belief. Also I give my consent to conduct the background verification as per the company’s recruitment policy
+Applicant Name *
+Aditya Royyuyu
+Parent Name *
+VenkateswaraRao
+Date *
+19/07/2021
+Thank You Step 9 of 9Edit
+Thank you for applying for HCL First Careers.
+HCL follows a stringent selection process. Each application received is evaluated for multiple parameters like: academic track record, year of passing, affinity to hcl location, performance in online test and interviews. Our eligibility & selection criteria is defined by the needs of our business verticals and is therefore dynamic. Candidates who meet our eligibility criteria only will be contacted for next steps of the application process.
+
